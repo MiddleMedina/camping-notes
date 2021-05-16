@@ -1,0 +1,27 @@
+Gear:
+Tent
+Sleeping Bag
+Sleeping Pad
+Pillow
+Camping Chair
+Cooler
+Latern
+Stove
+Fuel
+Cooking pots
+Bowls
+Plates
+Utensils
+Lighter
+Towel
+Bear Spray
+Medical
+Sunscreen
+Bug Spray
+Poop Shovel
+Knife
+Cast Iron
+Solar Battery
+Hammock
+Tandem Poles
+Flashlight
