@@ -25,3 +25,5 @@ Solar Battery
 Hammock
 Tandem Poles
 Flashlight
+Tent Footprint
+Flashlight
